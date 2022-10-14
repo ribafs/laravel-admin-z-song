@@ -92,6 +92,8 @@ just go to this path `<YOUR_PROJECT_PATH>\vendor\encore\laravel-admin\src\Traits
 
 ## Extensions
 
+https://github.com/laravel-admin-extensions
+
 | Extension                                        | Description                              | laravel-admin                              |
 | ------------------------------------------------ | ---------------------------------------- |---------------------------------------- |
 | [helpers](https://github.com/laravel-admin-extensions/helpers)             | Several tools to help you in development | ~1.5 |
